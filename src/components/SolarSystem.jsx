@@ -1,9 +1,11 @@
 import React from "react";
+import Title from './Title';
+import PlanetCard from './PlanetCard';
 
-class extends React.Component {
+class SolarSystem extends React.Component {
   render() {
     return ();
   }
 }
 
-export default ;
+export default SolarSystem;
