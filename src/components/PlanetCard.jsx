@@ -1,9 +1,9 @@
-import React from "react";
+// import React from "react";
 
-class PlanetCard extends React.Component {
-  render() {
-    return ();
-  }
-}
+// class PlanetCard extends React.Component {
+//   render() {
+//     return ();
+//   }
+// }
 
-export default PlanetCard;
+// export default PlanetCard;

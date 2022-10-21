@@ -1,9 +1,9 @@
-import React from "react";
+// import React from "react";
 
-class MissionCard extends React.Component {
-  render() {
-    return ();
-  }
-}
+// class MissionCard extends React.Component {
+//   render() {
+//     return ();
+//   }
+// }
 
-export default MissionCard;
+// export default MissionCard;
